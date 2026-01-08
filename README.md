@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hey there, I'm an aspiring Software engineer<br>👯 I’m looking to collaborate on MERN Stack Development<br>🌱 I’m currently learning React<br>💬 Ask me about Backend Development<br>📫  Reach out to me @: hemanthdl2907@gmail.com
+🚀 Hey there, I'm an aspiring Software engineer<br>👯 I’m looking to collaborate on MERN Stack Development<br>🌱 Passionate about AI/ML tools<br>💬 Ask me about Backend Development<br>📫  Reach out to me @: hemanthdl2907@gmail.com
 
 
 # 💻 Tech Stack:
